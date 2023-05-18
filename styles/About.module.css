@@ -1,0 +1,12 @@
+/* here, in a css module you cannot put element selectors */
+/* body {
+    background-color: hotpink;
+}
+
+p {
+    color: chartreuse;
+} */
+
+.greenText {
+    color: chartreuse;
+}
